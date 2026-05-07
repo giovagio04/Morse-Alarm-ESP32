@@ -1,4 +1,4 @@
-# 🕒 MorsAlarm - Sveglia Interattiva Morse
+# 🕒 MorseAlarm - Sveglia Interattiva Morse
 
 Progetto basato su **ESP32** che sfida l'utente a risolvere un codice Morse generato casualmente per spegnere l'allarme.
 
