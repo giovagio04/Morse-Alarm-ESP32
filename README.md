@@ -8,7 +8,7 @@ Progetto basato su **ESP32** che sfida l'utente a risolvere un codice Morse gene
 * **Feedback:** LED Rossi (sfida), LED Bianchi (progressi), Buzzer e LED RGB (stato WiFi)
 
 ## 📸 Foto del Progetto
-![Circuito](MorseAlarm_Circuito.jpg)
+![Circuito](MorseAlarm_Circuito.png)
 
 ## 🚀 Funzionalità
 1. **Configurazione Web:** Impostazione orario tramite interfaccia WiFi.
